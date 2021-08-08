@@ -1,3 +1,3 @@
 # SimulatedAnnealing
 
- f(x) = x	&#178 2
+ f(x) = x<sup> 2</sup>
