@@ -1,3 +1,3 @@
 # SimulatedAnnealing
 
-f(x) = 2^2
+  <MATH>&int;_a_^b^{f(x)<over>1+x} dx</MATH>
